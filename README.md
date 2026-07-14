@@ -13,7 +13,7 @@ Tento projekt byl vytvořen v rámci předmětu 4IZ503. Projekt zkoumá vazby me
 5. **Sloučení datových sad:** Sloučení legislativních výstupů s finančními daty na základě data vydání dokumentu a uložení do tabulky `final.csv`.
 6. **Data Mining:** Tvorba asociačních pravidel nad kategorizovanými proměnnými pro nalezení vztahů mezi aktem EU a reakcí trhu. Asociační pravidla byla vybrána na základě poznatků a vizualizací z Power BI.
 
-![Schéma pipeline](pipeline.jpg)
+![Schéma pipeline](pipeline.png)
 
 ---
 
