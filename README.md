@@ -19,4 +19,7 @@ Tento projekt byl vytvořen v rámci předmětu 4IZ503. Projekt zkoumá vazby me
 
 ## Závěry
 
-*(Zde doplň hlavní poznatky a zjištění ze své finální zprávy.)*
+Analýza odhalila vliv komplexity předpisů a sektorovou asymetrii, kdy směrnice v průmyslu a energetice výnosovou křivku zplošťují, zatímco finanční regulace zvyšují její sklon. Rozhodnutí ve stavebnictví a financích navíc vyvolávají zvýšenou volatilitu trhu.
+Kaopak legislativa v oblasti životního prostředí koreluje s stabilnějším tržním prostředím. 
+
+Ovšem pro budoucí analýzy doporučuji upustit od asociačních pravidel, která byla povinná v rámci kurzu, a namísto toho zachovat dataset jako časovou řadu s numerickými proměnnými pro aplikaci modelů jako je SVAR.
